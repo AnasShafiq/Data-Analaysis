@@ -18,10 +18,10 @@ This project analyzes bike sales data to uncover customer buying patterns and tr
 ✔️ **Data Relationships** to connect insights across different factors.  
 
 ### 📊 **Dashboard Preview**  
-![Dashboard Image](<a href="https://freeimage.host/i/2y3AdZb"><img src="https://iili.io/2y3AdZb.md.png" alt="2y3AdZb.md.png" border="0"></a>)  
+<a href="https://freeimage.host/i/2y3AdZb"><img src="https://iili.io/2y3AdZb.md.png" alt="2y3AdZb.md.png" border="0"></a>
 
 ### 📑 **Pivot Table Overview**  
-![Pivot Table Image](<a href="https://freeimage.host/i/2y3AAMv"><img src="https://iili.io/2y3AAMv.md.png" alt="2y3AAMv.md.png" border="0"></a>)  
+<a href="https://freeimage.host/i/2y3AAMv"><img src="https://iili.io/2y3AAMv.md.png" alt="2y3AAMv.md.png" border="0"></a> 
 
 ## How to Use  
 1️⃣ **Open the Excel file**.  
